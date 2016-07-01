@@ -4,4 +4,4 @@ applications:
   memory: 128M
   instances: 1
   services:
-   - mongodb
+   - AR_C_MoA2-mongodb-2016-07-01 05:32:00.68
