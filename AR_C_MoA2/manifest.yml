@@ -1,0 +1,7 @@
+---
+applications:
+- name: AR_C_MoA2
+  memory: 128M
+  instances: 1
+  services:
+   - mongodb
