@@ -1,0 +1,7 @@
+---
+applications:
+- name: AR_C_Mo_A
+  memory: 128M
+  instances: 1
+  services:
+   - mongodb
