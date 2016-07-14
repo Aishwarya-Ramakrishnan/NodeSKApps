@@ -1,0 +1,7 @@
+---
+applications:
+- name: tt421
+  memory: 1024M
+  instances: 1
+  services:
+   - mean-mongo
