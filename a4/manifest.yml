@@ -1,0 +1,7 @@
+---
+applications:
+- name: a4
+  memory: 800M
+  instances: 1
+  services:
+   - JPivotal-mysqlcleardb-2016-07-06 10:27:05.623
