@@ -1,7 +1,0 @@
----
-applications:
-- name: AMoA6
-  memory: 128M
-  instances: 1
-  services:
-   - AMoA6-mongodb-2016-07-01 09:49:20.804

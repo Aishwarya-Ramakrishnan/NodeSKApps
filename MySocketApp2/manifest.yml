@@ -1,6 +1,0 @@
----
-applications:
-- name: MySocketApp2
-  memory: 128M
-  instances: 1
-

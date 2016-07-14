@@ -1,7 +1,0 @@
----
-applications:
-- name: ashabusha
-  memory: 128M
-  instances: 1
-  services:
-   - service_name
